@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+      <rect width="800" height="500" rx="24" fill="#dbeafe"/>
+      <circle cx="650" cy="90" r="40" fill="#ffd166"/><path d="M40 420 L250 130 L430 420Z" fill="#6b8eaf"/><path d="M250 130 L310 225 L270 210 L240 240 L215 200Z" fill="#fff"/><path d="M300 420 L520 170 L760 420Z" fill="#315f7d"/><path d="M520 170 L575 240 L540 225 L515 250 L495 215Z" fill="#fff"/><path d="M0 420 Q220 365 400 425 T800 410 V500 H0Z" fill="#78a878"/>
+      <text x="28" y="48" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#183b32">DÃY NÚI</text>
+    </svg>

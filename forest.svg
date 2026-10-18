@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+      <rect width="800" height="500" rx="24" fill="#dcfce7"/>
+      <circle cx="660" cy="85" r="35" fill="#ffd166"/><rect x="120" y="270" width="22" height="170" fill="#795548"/><path d="M55 300 L131 130 L207 300Z" fill="#2f855a"/><path d="M67 245 L131 60 L195 245Z" fill="#2f855a"/><rect x="270" y="270" width="22" height="170" fill="#795548"/><path d="M205 300 L281 170 L357 300Z" fill="#3b9b65"/><path d="M217 245 L281 100 L345 245Z" fill="#3b9b65"/><rect x="440" y="270" width="22" height="170" fill="#795548"/><path d="M375 300 L451 145 L527 300Z" fill="#28734e"/><path d="M387 245 L451 75 L515 245Z" fill="#28734e"/><rect x="610" y="270" width="22" height="170" fill="#795548"/><path d="M545 300 L621 170 L697 300Z" fill="#3b9b65"/><path d="M557 245 L621 100 L685 245Z" fill="#3b9b65"/><path d="M0 420 Q200 380 400 420 T800 410 V500 H0Z" fill="#83b77a"/>
+      <text x="28" y="48" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#183b32">RỪNG XANH</text>
+    </svg>

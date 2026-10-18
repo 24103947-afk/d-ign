@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+      <rect width="800" height="500" rx="24" fill="#fef3c7"/>
+      <circle cx="660" cy="85" r="40" fill="#ffd166"/><path d="M0 330 Q180 250 360 330 T800 315 V500 H0Z" fill="#8abf72"/><path d="M0 410 Q200 350 400 410 T800 390 V500 H0Z" fill="#6b9c5b"/><path d="M350 500 Q390 430 450 400 Q500 375 550 370" stroke="#e9d6a7" stroke-width="45" fill="none"/><rect x="140" y="245" width="135" height="110" fill="#f0c9a2"/><path d="M120 250 L205 185 L295 250Z" fill="#b65d43"/><rect x="190" y="290" width="35" height="65" fill="#8b5e3c"/>
+      <text x="28" y="48" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#183b32">MIỀN QUÊ</text>
+    </svg>

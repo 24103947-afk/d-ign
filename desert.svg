@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+      <rect width="800" height="500" rx="24" fill="#ffedd5"/>
+      <circle cx="650" cy="90" r="45" fill="#f59e0b"/><path d="M0 300 Q150 210 310 300 T620 280 T800 300 V500 H0Z" fill="#e9ad61"/><path d="M0 390 Q180 310 360 390 T720 370 T800 390 V500 H0Z" fill="#c7772e"/><path d="M170 390 L170 290 M140 320 L170 345 L200 320 M570 410 L570 310 M540 340 L570 365 L600 340" stroke="#477a4c" stroke-width="14" stroke-linecap="round" fill="none"/>
+      <text x="28" y="48" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#183b32">SA MẠC</text>
+    </svg>

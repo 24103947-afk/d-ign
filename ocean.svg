@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+      <rect width="800" height="500" rx="24" fill="#cffafe"/>
+      <circle cx="650" cy="90" r="40" fill="#ffd166"/><path d="M0 210 Q100 170 200 210 T400 210 T600 210 T800 210 V500 H0Z" fill="#2699b5"/><path d="M0 285 Q100 245 200 285 T400 285 T600 285 T800 285" fill="none" stroke="#b8f1f5" stroke-width="12"/><path d="M0 365 Q100 325 200 365 T400 365 T600 365 T800 365" fill="none" stroke="#b8f1f5" stroke-width="10"/><path d="M0 450 Q120 420 240 450 T480 450 T800 445 V500 H0Z" fill="#087e8b"/>
+      <text x="28" y="48" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#183b32">ĐẠI DƯƠNG</text>
+    </svg>

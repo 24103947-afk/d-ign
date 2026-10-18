@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+      <rect width="800" height="500" rx="24" fill="#dbeafe"/>
+      <path d="M0 0 H260 L350 280 L250 500 H0Z" fill="#628c68"/><path d="M800 0 H560 L470 280 L570 500 H800Z" fill="#4f7e5b"/><path d="M320 100 Q400 140 480 100 L460 355 Q400 390 340 355Z" fill="#55b8d1"/><path d="M340 350 Q400 380 460 350 L520 440 Q400 490 280 440Z" fill="#2584a6"/><path d="M0 430 Q150 390 280 440 T550 440 T800 420 V500 H0Z" fill="#6fb4bd"/>
+      <text x="28" y="48" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#183b32">THÁC NƯỚC</text>
+    </svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+      <rect width="800" height="500" rx="24" fill="#e0e7ff"/>
+      <circle cx="640" cy="120" r="58" fill="#fef3c7"/><circle cx="665" cy="100" r="53" fill="#a5b4fc"/><circle cx="110" cy="90" r="4" fill="#fff"/><circle cx="210" cy="150" r="3" fill="#fff"/><circle cx="340" cy="75" r="4" fill="#fff"/><circle cx="470" cy="135" r="3" fill="#fff"/><circle cx="560" cy="65" r="3" fill="#fff"/><circle cx="730" cy="210" r="4" fill="#fff"/><circle cx="180" cy="230" r="3" fill="#fff"/><path d="M0 420 L160 280 L300 420 L460 250 L650 420 L800 310 V500 H0Z" fill="#343d72"/><path d="M0 450 L220 340 L390 455 L610 335 L800 440 V500 H0Z" fill="#252d56"/>
+      <text x="28" y="48" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#183b32">BẦU TRỜI ĐÊM</text>
+    </svg>
